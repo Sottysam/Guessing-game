@@ -1,4 +1,4 @@
-# numberGuessingGame
+# NumberGuessingGame
 
 Replit Link
 https://replit.com/join/gzfhsgctsc-sotundesamuel
